@@ -40,4 +40,4 @@ The comparative analysis underscores the importance of choosing the right cluste
 To run the project:
 1. Ensure Python is installed along with the libraries: NumPy, Matplotlib, Scikit-learn, and Seaborn.
 2. Clone this repository.
-3. Run the Jupyter Notebook `ML-Edited5.ipynb` to replicate the analysis.
+3. Run the Jupyter Notebook `ClusterDynamics-KMeans-vs-DBSCAN.ipynb` to replicate the analysis.
